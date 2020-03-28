@@ -10,7 +10,7 @@ get some basics down and learn how to code a bit on your own. There are two reas
 decide if you want to do a bootcamp or continue on your own (possible, but harder). And could help you get
 into well regarded bootcamps like the ([Recurse Center](https://www.recurse.com/).
 
-So to start off we're gonna learn [Python](https://www.python.org/) (specifically Python3).
+So to start off we're gonna learn [Python](https://www.python.org/).
 
 Why Python:
 1. Extensive corpus of high-quality learning resources.
@@ -35,7 +35,7 @@ And it just works - which is kinda cool and makes learning the language much eas
 
 Why not Python:
 1. Will explain this later since it can be a distraction and won't be helpful at this
-moment. Python3 is a good language, but there are many programming languages and
+moment. Python is a good language, but there are many programming languages and
 programming paradigms, and one thing you'll learn is that programmers have strong
 opinions about them (for better or worse).
 

@@ -59,7 +59,8 @@ _Note:_ PyCharm is also good and worth taking a look at but is a bit harder to g
 
 ## Resources
 
-[Learn Python the Hard Way](https://learnpythonthehardway.org/book/): start here.
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/book/): start here.
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/): came highly recommended from a coworker.
 
 **TOOD:** Add more resources
 
